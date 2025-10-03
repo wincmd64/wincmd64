@@ -1,8 +1,7 @@
 ## Приветствую 👋
 
-### Что интересного можно здесь найти? 🤔  
-📜 [wincmd64/scripts](https://github.com/wincmd64/scripts) - различные скрипты моего авторства  
-💾 сборка [Total Commander 64](https://github.com/wincmd64/blog/wiki/TotalCmd)  
+Здесь Вы сможете найти различные скрипты моего авторства [wincmd64/scripts](https://github.com/wincmd64/scripts) и сборки [Total Commander](https://github.com/wincmd64/blog/wiki/TotalCmd).  
+Также представлен небольшой вики-блог.
 
 ### [![RSS](https://img.shields.io/badge/-RSS-orange?logo=rss&logoColor=white&style=flat-square)](https://github.com/wincmd64/wincmd64/commits/main.atom) Changelog обновлений \ заметки на IT тематику:
 _2025.10.03_ - Новый скрипт [TCdownloader.bat](https://github.com/wincmd64/scripts/blob/main/TCdownloader.bat)  
