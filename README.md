@@ -3,7 +3,7 @@
 Здесь Вы сможете найти различные скрипты моего авторства [wincmd64/scripts](https://github.com/wincmd64/scripts) и сборки [Total Commander](https://github.com/wincmd64/blog/wiki/TotalCmd).  
 Также представлен небольшой вики-блог.
 
-### [![RSS](https://img.shields.io/badge/-RSS-orange?logo=rss&logoColor=white&style=flat-square)](https://github.com/wincmd64/wincmd64/commits/main.atom) Changelog обновлений \ заметки на IT тематику:
+### [![RSS](https://img.shields.io/badge/-RSS-orange?logo=rss&logoColor=white&style=flat-square)](https://github.com/wincmd64/wincmd64/commits/main.atom) Changelog обновлений и заметок:
 _2025.10.03_ - Новый скрипт [TCdownloader.bat](https://github.com/wincmd64/scripts/blob/main/TCdownloader.bat)  
 _2024_ - [WinGet и Ко](https://github.com/wincmd64/blog/wiki/WinGet-и-Ко)  
 _2024_ - [Изучаем инсталляторы](https://github.com/wincmd64/blog/wiki/Изучаем-инсталляторы)  
