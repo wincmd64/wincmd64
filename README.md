@@ -4,6 +4,7 @@
 Также представлен небольшой вики-блог.
 
 ### [![RSS](https://img.shields.io/badge/-RSS-orange?logo=rss&logoColor=white&style=flat-square)](https://github.com/wincmd64/wincmd64/commits/main.atom) Changelog обновлений и заметок:
+_2025.10.06_ - [Сайт не открывается? Есть решение!](https://github.com/wincmd64/blog/wiki/Сайт-не-открывается%3F-Есть-решение!)  
 _2025.10.03_ - Новый скрипт [TCdownloader.bat](https://github.com/wincmd64/scripts/blob/main/TCdownloader.bat)  
 _2024_ - [WinGet и Ко](https://github.com/wincmd64/blog/wiki/WinGet-и-Ко)  
 _2024_ - [Изучаем инсталляторы](https://github.com/wincmd64/blog/wiki/Изучаем-инсталляторы)  
