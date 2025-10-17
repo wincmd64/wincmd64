@@ -4,6 +4,7 @@
 Также представлен небольшой вики-блог.
 
 ### [![RSS](https://img.shields.io/badge/-RSS-orange?logo=rss&logoColor=white&style=flat-square)](https://github.com/wincmd64/wincmd64/commits/main.atom) Changelog обновлений и заметок:
+_2025.10.17_ - Обновлен скрипт [yt-dlp.bat](https://github.com/wincmd64/scripts/blob/main/yt-dlp.bat)  
 _2025.10.08_ - Обновлен 📝 [Устанавливаем Windows. Полный гайд](https://github.com/wincmd64/blog/wiki/Устанавливаем-Windows.-Полный-гайд)  
 _2025.10.07_ - Новый скрипт [send2_extras/PassFinder.bat](https://github.com/wincmd64/scripts/blob/main/send2_extras/PassFinder.bat)  
 _2025.10.06_ - 📝 [Сайт не открывается? Есть решение!](https://github.com/wincmd64/blog/wiki/Сайт-не-открывается%3F-Есть-решение!)  
