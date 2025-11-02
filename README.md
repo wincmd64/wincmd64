@@ -6,7 +6,7 @@
 Последняя новинка: [ODT.bat](https://github.com/wincmd64/scripts/blob/main/ODT.bat)  
 **[Смотреть все...](https://github.com/wincmd64/scripts)**
 
-### 💾 Total Commander
+### 💾 totalcmd
 Компактная сборка без вареза и лишнего ПО.  
 **[Подробнее...](https://github.com/wincmd64/blog/wiki/TotalCmd)**
 
