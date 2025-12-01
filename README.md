@@ -12,6 +12,7 @@
 **[Подробнее...](https://github.com/wincmd64/blog/wiki/TotalCmd)**
 
 ### 📝 notes
+* [Моя система ярлыков](https://github.com/wincmd64/blog/wiki/Моя-система-ярлыков)
 * [Осваиваем AutoHotkey](https://github.com/wincmd64/blog/wiki/Осваиваем-AutoHotkey)
 * [Настраиваем профиль PowerShell 5](https://github.com/wincmd64/blog/wiki/Настраиваем-профиль-PowerShell-5)
 * [Выбираем лучший резолвер DNS](https://github.com/wincmd64/blog/wiki/Выбираем-лучший-резолвер-DNS)
