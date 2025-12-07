@@ -3,7 +3,7 @@
 
 ### 📜 scripts
 Всего 25 скриптов, решающие различные задачи по автоматизации Windows. В основном это `bat\cmd`, а также `ps1` и `ahk`.  
-Последняя новинка: [schtasks.ps1](https://github.com/wincmd64/scripts/blob/main/schtasks.ps1)  
+Последняя новинка: [trid.bat](https://github.com/wincmd64/scripts/blob/main/send2_extras/trid.bat)  
 **[Смотреть все...](https://github.com/wincmd64/scripts)**
 
 ### 💾 totalcmd
