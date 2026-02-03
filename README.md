@@ -4,7 +4,7 @@
 ### 📜 scripts
 Несколько десятков скриптов, решающие различные задачи по автоматизации Windows.  
 В основном это `bat\cmd`, а также `ps1` и `ahk`.  
-Последняя новинка: [viberDL.bat](https://github.com/wincmd64/scripts/blob/main/viberDL.bat)  
+Последняя новинка: [mpcDL.bat](https://github.com/wincmd64/scripts/blob/main/mpcDL.bat)  
 **[Смотреть все...](https://github.com/wincmd64/scripts)**
 
 ### 💾 totalcmd
