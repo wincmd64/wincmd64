@@ -4,7 +4,6 @@
 ### 📜 scripts
 Несколько десятков скриптов, решающие различные задачи по автоматизации Windows.  
 В основном это `bat\cmd`, а также `ps1` и `ahk`.  
-Последняя новинка: [updaters](https://github.com/wincmd64/scripts/tree/main/updaters)  
 **[Смотреть все...](https://github.com/wincmd64/scripts)**
 
 ### 💾 totalcmd
