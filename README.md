@@ -11,7 +11,5 @@
 Последнее обновление: _11.57 FINAL_  
 **[Подробнее...](https://github.com/wincmd64/blog/wiki/TotalCmd)**
 
-### 📝 news \ notes
-`2026.03.27` Полностью переделан репозиторий [scripts](https://github.com/wincmd64/scripts).  
-
+### 📝 notes
 \#[Восстанавливаем данные из теневой копии](https://github.com/wincmd64/blog/wiki/Восстанавливаем-данные-из-теневой-копии) \#[Осваиваем AutoHotkey](https://github.com/wincmd64/blog/wiki/Осваиваем-AutoHotkey) \#[Настраиваем профиль PowerShell 5](https://github.com/wincmd64/blog/wiki/Настраиваем-профиль-PowerShell-5) \#[Выбираем лучший резолвер DNS](https://github.com/wincmd64/blog/wiki/Выбираем-лучший-резолвер-DNS) \#[Устанавливаем MS Office. Полный гайд](https://github.com/wincmd64/blog/wiki/Устанавливаем-MS-Office.-Полный-гайд) \#[Устанавливаем Windows. Полный гайд](https://github.com/wincmd64/blog/wiki/Устанавливаем-Windows.-Полный-гайд) \#[WinGet и Ко](https://github.com/wincmd64/blog/wiki/WinGet-и-Ко) \#[Изучаем инсталляторы](https://github.com/wincmd64/blog/wiki/Изучаем-инсталляторы) \#[Готовим Firefox](https://github.com/wincmd64/blog/wiki/Готовим-Firefox)
